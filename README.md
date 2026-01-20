@@ -12,10 +12,10 @@
 │   │   ├── ChatMessage.css
 │   │   ├── ChatMessage.jsx
 │   │   ├── ChatMessages.css
-│   │   ├── ChatMessages.jsx
+│   │   └── ChatMessages.jsx
 │   ├── App.cs
 │   ├── App.jsx
 │   ├── index.css
-│   ├── main.js
+│   └── main.js
 └── README.md
 ```
