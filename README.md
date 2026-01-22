@@ -39,13 +39,13 @@ This project is a responsive chat interface built with React to simulate a conve
 * **Message Timestamps:** Every message displays the exact time it was sent, formatted for readability (e.g., "2:30pm").
 
 ## How to Run
-**1) Installing the relevant Dependencies -** Navigate to the project folder and run the following code.
+**1) Installing the relevant dependencies -** Navigate to the project folder and run the following code.
 ```
 npm install
 ```
 <br>
 
-**2) Starting the Dev Server -** Run the Vite development server with the following code.
+**2) Starting the dev server -** Run the Vite development server with the following code.
 ```
 npm run dev
 ```
